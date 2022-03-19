@@ -1,0 +1,17 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.main-part{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.main-part h2{
+    font-size: 60px;
+}
+
+.main-part p{
+    font-size: 10px;
+}
+ 
